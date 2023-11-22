@@ -5,4 +5,5 @@ using namespace std;
  {
  cout<< "Mifta" <<endl;
  cout<< "2104010202275" <<endl;
+  cout<< "Section-C"<<endl;
  }
